@@ -14,5 +14,13 @@ Neste repositório vamos ver os super-poderes de versionamento
 # Exemplo inserindo uma imagem
 ![imagem qualquer](https://cdn.pixabay.com/photo/2024/05/15/20/57/developer-8764519_1280.jpg "a title")
 
+# Exemplo inserindo um link com texto
+Dentro do colchete, vai o texto que aprece na pagina. Dentro do parentesis, vai o endereço de destino (link)
+[CLIQUE AQUI PARA SE DIVERTIR](https://www.netflix.com)
+
+
+# Exemplo inserindo imagem com link
+[![imagem qualquer](https://cdn.pixabay.com/photo/2024/05/15/20/57/developer-8764519_1280.jpg "a title")](https://www.netflix.com)
+
 
 
